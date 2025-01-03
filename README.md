@@ -51,6 +51,8 @@
 
 ## Languages and Tools:
 
+## Languages and Tools:
+
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender" />
   <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" />
@@ -59,14 +61,13 @@
   <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenCV_Logo_with_text.png" alt="OpenCV" height="48" />
   <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="48" />
   <img src="https://img.icons8.com/fluency/48/matlab.png" alt="MATLAB" />
-  <img src="https://img.icons8.com/fluency/48/git.png" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="48" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/external-becris-lineal-color-becris/48/external-raspberry-iot-becris-lineal-color-becris.png" alt="Raspberry Pi" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_2_Logo.png" alt="ROS2" height="48" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-robotics-industrial-automation-flat-flat-juicy-fish.png" alt="Altum" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-robotics-industrial-automation-flat-flat-juicy-fish.png" alt="Altium" />
   <img src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks" />
 </p>
-
 
