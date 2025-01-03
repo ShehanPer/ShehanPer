@@ -11,10 +11,17 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourprofile)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shehan-perera-b06697274/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/?form=MT00M3">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -23,21 +30,21 @@
 <details>
 <summary>⚡ GitHub Profile Stats</summary>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShehanPer&show_icons=true&theme=radical)
 
 </details>
 
 <details>
 <summary>📈 Activity Graph</summary>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShehanPer&theme=dracula)
 
 </details>
 
 <details>
 <summary>👀 Profile Views</summary>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=ShehanPer)
 
 </details>
 
@@ -46,19 +53,20 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/fluency/48/blender-3d.png" alt="Blender" />
+  <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/opencv.png" alt="OpenCV" />
+  <img src="https://img.icons8.com/fluency/48/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" />
+  <img src="https://img.icons8.com/color/48/matlab.png" alt="MATLAB" />
+  <img src="https://img.icons8.com/fluency/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/external-becris-lineal-color-becris/48/external-raspberry-iot-becris-lineal-color-becris.png" alt="Raspberry Pi" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-robotics-industrial-automation-flat-flat-juicy-fish.png" alt="ROS2" />
+  <img src="https://img.icons8.com/fluency/48/microsoft-access.png" alt="Altum" />
+  <img src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks" />
 </p>
+
