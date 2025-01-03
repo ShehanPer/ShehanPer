@@ -9,9 +9,8 @@
 - AI/ML: TensorFlow, PyTorch
 - Other: Docker, Git
 
-## Connect with me:
-
-<p align="center">
+<!-- Social Media Links -->
+<p align="left">
   <a href="https://www.linkedin.com/in/shehan-perera-b06697274/">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
   </a>
@@ -58,15 +57,16 @@
   <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" />
   <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/fluency/48/opencv.png" alt="OpenCV" />
-  <img src="https://img.icons8.com/fluency/48/tensorflow.png" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenCV_Logo_with_text.png" alt="OpenCV" height="48" />
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" />
   <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" />
-  <img src="https://img.icons8.com/color/48/matlab.png" alt="MATLAB" />
+  <img src="https://img.icons8.com/fluency/48/matlab.png" alt="MATLAB" />
   <img src="https://img.icons8.com/fluency/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/external-becris-lineal-color-becris/48/external-raspberry-iot-becris-lineal-color-becris.png" alt="Raspberry Pi" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-robotics-industrial-automation-flat-flat-juicy-fish.png" alt="ROS2" />
-  <img src="https://img.icons8.com/fluency/48/microsoft-access.png" alt="Altum" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_2_Logo.png" alt="ROS2" height="48" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-robotics-industrial-automation-flat-flat-juicy-fish.png" alt="Altum" />
   <img src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks" />
 </p>
+
 
