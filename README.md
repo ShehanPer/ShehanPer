@@ -48,18 +48,6 @@
 
 ---
 
-<h2 align="center">🌟 Top Repositories</h2>
-
-<p align="center">
-  <a href="https://github.com/ShehanPer/repo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo1&theme=dark" />
-  </a>
-  <a href="https://github.com/ShehanPer/repo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo2&theme=dark" />
-  </a>
-</p>
-
----
 
 <h2 align="center">📫 Connect with Me</h2>
 
