@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehan Perera</h1>
 <h3 align="center">An undergraduate in Electronic and Telecommunication Engineering passionate about AI, ML, Robotics, and 3D modeling</h3>
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shehan-perera-b06697274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/?form=MT00M3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
@@ -65,12 +52,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shehan-perera-b06697274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shehan%20Perera-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/?form=MT00M3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Shehan%20Perera-blue?style=flat-square&logo=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Shehan%20Perera-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
