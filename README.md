@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shehan Perera</h1>
-<h3 align="center">An undergraduate in Electronic and Telecommunication Engineering passionate about AI, ML, Robotics, and 3D modeling</h3>
+<h3 align="center">Passionate and results-driven engineering student with a strong foundation in Computer Vision, Machine Learning,
+Deep Learning, Generative AI, LLMs, and AI-driven Robotics. A fast learner and problem solver with excellent
+leadership, confidence, and listening skills. Adept at 3D modeling and animation, combining technical expertise with
+creativity. Seeking opportunities to apply AI and automation in innovative projects, leveraging cutting-edge
+technologies to solve real-world challenges</h3>
 
 
 ---
