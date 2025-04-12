@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Robot_Operating_System_2_Logo.png" alt="ROS2" height="48" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-altium-designer-a-software-package-for-pcb-and-eda-industry-logo-shadow-tal-revivo.png" alt="Altium" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" />
@@ -38,10 +36,10 @@
 <h2 align="center">🌟 Top Repositories</h2>
 
 <p align="center">
-  <a href="[https://github.com/ShehanPer/repo1](https://github.com/ShehanPer/PCB_defect_detection.git)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo1&theme=dark" />
+  <a href="https://github.com/ShehanPer/PCB_defect_detection.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=PCB_defect_detection&theme=dark" />
   </a>
-  <a href="https://github.com/ShehanPer/repo2">
+  <a href="https://github.com/ShehanPer/Freel">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo2&theme=dark" />
   </a>
 </p>
