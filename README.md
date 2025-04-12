@@ -38,7 +38,7 @@
 <h2 align="center">🌟 Top Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/ShehanPer/repo1">
+  <a href="[https://github.com/ShehanPer/repo1](https://github.com/ShehanPer/PCB_defect_detection.git)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo1&theme=dark" />
   </a>
   <a href="https://github.com/ShehanPer/repo2">
