@@ -39,8 +39,8 @@
   <a href="https://github.com/ShehanPer/PCB_defect_detection.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=PCB_defect_detection&theme=dark" />
   </a>
-  <a href="https://github.com/ShehanPer/Freel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=repo2&theme=dark" />
+  <a href="https://github.com/ShehanPer/Freelanz-AI-Agent.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=Freelanz-AI-Agent&theme=dark" />
   </a>
 </p>
 
