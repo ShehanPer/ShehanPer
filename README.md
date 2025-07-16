@@ -53,8 +53,8 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ShehanPer/PCB_defect_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=PCB_defect_detection&theme=chartreuse-dark" />
+  <a href="https://github.com/ShehanPer/Hybrid-Lbend-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=Hybrid-Lbend-detector&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/ShehanPer/Freelanz-AI-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShehanPer&repo=Freelanz-AI-Agent&theme=chartreuse-dark" />
