@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 GitHub Stats (Neon Purple Theme)
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShehanPer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=BF00FF&icon_color=DA70D6&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
